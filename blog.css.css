@@ -1,0 +1,129 @@
+*{
+    margin-right: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 900px;
+    width: 1440px;
+    background-size: cover;
+    left: calc(50% - 1440px/2);
+}
+
+.maincontainer{
+    height: 900px;
+    width: 1440px;
+    background-image: url('https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/plant-guide-1663941701.jpg');
+   background-size: cover;
+}
+.parent1{
+    height: 220px;
+    width: 100%;
+    line-height: 100%;
+}
+.navbar img{
+    height: 28px;
+    width: 28px;
+    margin-top: 50px;
+    margin-left: 400px;
+ 
+ }
+ .navbar a{
+     justify-content: space-between;
+     align-items: center;
+     padding: 1rem 2rem;
+     text-decoration: none;
+ }
+
+.parent2{
+    height: 520px;
+    width: 100%;
+    margin-bottom: -140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.parent2 .parent2mainleft{
+    height: 100%;
+    width:60% ;
+}
+.parent2mainlefttop1{
+    height: 160px;
+    width: 80%;
+    margin-left: 15%;
+}
+.parent2mainlefttop1 h1{
+    font-size: 50px;
+    color:cornsilk;
+    padding: 0rem 3rem;
+    font-weight: 600;
+    margin-top: 0%;
+    
+}
+.parent2mainlefttop2{
+    height: 60px;
+    width: 60%;
+    margin-left: 15%;
+    padding: 0rem 3rem;
+    color: cornsilk;
+    
+}
+.parent2mainlefttop3{
+    height: 120px;
+    width: 60%;
+    margin-left: 15%;
+    padding: 0rem 3rem;
+    color: cornsilk;
+}
+
+.parent2mainlefttop4{
+    height: 70px;
+    width: 60%;
+    margin-left: 15%;
+}
+.parent2mainlefttop4 button{
+    padding: 0.8rem 3.2rem;
+    border-radius: 50px;
+    background-color: #105200;
+    color: white;
+    margin-left: 23px;
+}
+
+.parent2mainlefttop5{
+    height: 100px;
+    width: 60%;
+    margin-left: 100px;
+   
+}
+.parent2mainlefttop5 img{
+    height: 40px;
+    width: 70px;
+   margin-left: 20px;
+   background: none;
+   border-radius:50px;
+   
+}
+.parent2mainlefttop5 h4{
+    margin-left: 23px;
+}
+.parent2mainright{
+    height: 100%;
+    width: 50%;
+    display: flex;
+}
+.parent2 .parent2mainright img{
+    height: 200px;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 340px;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+.parent3{
+    height: 100px;
+    width: 100%;
+    
+}
+
+

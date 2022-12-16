@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 900px;
+    width: 1440px;
+    background-image: url('https://burst.shopifycdn.com/photos/bringing-the-outside-in.jpg?width=1200&format=pjpg&exif=1&iptc=1');
+    position: absolute;
+    background-size: cover;
+    left: calc(50% - 1440px/2);
+}
+.subcontainer img{
+    height: 20px;
+    width: 20px;
+    margin-left: 350px;
+    justify-content: center;
+    align-items: center;
+}
+.navbar{
+height: 200px;
+width: 100%;
+text-decoration: none;
+
+}
+.navbar img{
+    margin-top: 50px;
+    margin-left: 400px;
+ 
+ }
+ .navbar a{
+     justify-content: space-between;
+     align-items: center;
+     padding: 1rem 2rem;
+     text-decoration: none;
+ }
+.subcontainer .containermiddle{
+    height: 600px;
+    width: 900px;
+    margin-top: 10px ;
+    margin-left: 270px;
+    margin-bottom: -210px;
+    background-image: url('https://www.caandesign.com/wp-content/uploads/2020/06/dulcineia-dias-3zJKLpPLkyU-unsplash-696x464.jpg');
+    background-size: cover;
+    padding: 1rem 1rem;
+}
+.containermiddletop{
+    height: 160px;
+    width: 40%;
+    font-size: 30px;
+    color: cornsilk;
+}
+.containermiddlemiddle{
+    height: 100px;
+    width: 50%;
+    font-size: 22px;
+   
+}
+.containermiddlebottam{
+    height: 300px;
+    width: 300px;
+    padding: 1rem ;
+    
+}
+.containermiddlebottam button{
+    padding: 0.5rem 3rem;
+    border-radius: 50px;
+    background-color: #105200;
+    color: white;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.15);
+}
+.parent2{
+
+    height: 300px;
+    width: 1440px;
+}
+

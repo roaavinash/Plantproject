@@ -1,0 +1,191 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 1440px;
+    height: 1800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.maincontainer{
+    height: 1800px;
+    width: 1440px;
+   
+}
+.mainsubcontainer
+{
+    height: 900px;
+    width: 1440px;
+    background-image: url('https://images.pexels.com/photos/1420004/pexels-photo-1420004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.parent1{
+    height: 15%;
+    width: 100%;
+    color: cornsilk;
+}
+
+
+
+.navbarmiddle img{
+    width: 30px;
+    height: 30px;
+    margin-left: 450px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+    
+}
+.navbarmiddle a{
+    padding: 0.5rem 1rem;
+    color: cornsilk;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+    text-decoration: none;
+}
+.parent2{
+    width: 100%;
+    padding: 2rem;
+    height: 30%;
+     display: flex;
+     justify-content: space-between;
+    align-items: center;
+     color: cornsilk;
+}
+
+.parent2middle{
+    height: 100%;
+    width: 25%;
+    left: calc(50% - 165px/2 + 0.5px);
+    font-size: 60px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    
+    font-weight: 600;
+
+}
+
+.parent3{
+    height: 20%;
+    width: 100%;
+}
+.parent3main{
+position: absolute;
+width: 500px;
+height: 117px;
+left: calc(50% - 500px/2);
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 130%;
+text-align: center;
+color:cornsilk;
+
+}
+.parent4{
+    height: 15%;
+    width: 100%;
+   
+}
+.parent4 button{
+    position: absolute;
+    left: calc(50% - 165px/2 + 0.5px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    border-radius: 30px;
+    text-transform: uppercase;
+    padding: 0.5rem 1rem;
+    background-color: black;
+    color: cornsilk;
+    
+}
+.parent5{
+    height: 20%;
+    width: 100%;
+
+    padding: 3rem 33rem;
+}
+.parent5 img{
+    height: 70px;
+    width: 70px;
+   padding: 0.5rem 0.5rem;
+}
+.parent6{
+    height: 6%;
+    width: 100%;
+   
+    font-size: 24px;
+   
+}
+.parent6 button{
+    padding: 0.7rem 2.5rem;
+    background-color:#375739;
+    color: cornsilk;
+    border-radius: 30px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+   margin-left: 580px;
+   margin-top: 30px;
+   font-weight: 600;
+}
+.parent7{
+    position: absolute;
+    width: 223px;
+    height: 18px;
+    left: calc(50% - 223px/2 + 0.5px);
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #B7EAAF;
+}
+.parent8{
+    height: 10%;
+    width: 320px;
+    position: absolute;
+    left: calc(50% - 300px/2);
+    top: 1082px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    text-align: center;
+    color: #000000;
+}
+.parent9{
+    height: 12%;
+    width: 600px;
+    position: absolute;
+   left: calc(50% - 580px/2);
+   top: 1200px;
+   font-size: 30px;
+   text-align: center;
+}
+.parent10{
+  margin-top: 210px;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+   padding: 0rem 4rem;
+   
+}
+.bottam img{
+    height: 300px;
+    width: 300px;
+    top: 1600px;
+   padding: 2rem;
+   border-radius: 20px;
+   
+}
