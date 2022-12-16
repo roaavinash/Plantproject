@@ -16,7 +16,7 @@ body{
 .parent1{
     height: 20%;
     width: 100%;
-    position: absolute;
+   
 }
 .navbar img{
     margin-top: 50px;
@@ -29,6 +29,7 @@ body{
      align-items: center;
      padding: 1rem 2rem;
      text-decoration: none;
+    
  }
 .parent2{
     height:67% ;
